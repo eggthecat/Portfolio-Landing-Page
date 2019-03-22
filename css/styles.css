@@ -11,6 +11,10 @@ h1.class-one {
   color:white;
 }
 
+p {
+  font-size:10;
+}
+
 p.class-one {
   color:white;
   font-size: 27px;
@@ -23,7 +27,7 @@ p.class-one {
 
 hr {
   width: 100%;
-  height: 2px;
+  height: 1px;
   border-bottom: 3px solid black;
 }
 
