@@ -7,20 +7,6 @@ body {
   background-color: lightblue;
 }
 
-h1.class-one {
-  color:white;
-}
-
-
-p.class-one {n
-  color:white;
-  font-size: 27px;
-}
-
-.jumbotron {
-  background-image:url("http://www.all-flags-world.com/country-flag/Belgium/flag-belgium-XL.jpg");
-  background-position:center;
-}
 
 hr {
   width: 100%;
@@ -45,5 +31,5 @@ img {
 
 .amt {
   text-align: center;
-  
+
 }
