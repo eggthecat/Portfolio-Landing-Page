@@ -31,5 +31,22 @@ img {
 
 .amt {
   text-align: center;
+}
+
+.sidebar {
+  width: 10%;
+  float: right;
+  background-color: gold;
+  shape-outside: circle(25%);
+  margin-right: 67%;
+
+}
+
+.sidebar1 {
+  width: 10%;
+  float: right;
+  background-color: lightblue;
+  shape-outside: circle(25%);
+  margin-right: 37%;
 
 }
