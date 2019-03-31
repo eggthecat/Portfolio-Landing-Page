@@ -48,5 +48,6 @@ img {
   background-color: lightblue;
   shape-outside: circle(25%);
   margin-right: 37%;
+  border-color: lightblue;
 
 }
