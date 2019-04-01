@@ -37,7 +37,6 @@ img {
   width: 10%;
   float: right;
   background-color: gold;
-  shape-outside: circle(25%);
   margin-right: 67%;
 
 }
@@ -53,5 +52,6 @@ img {
 }
 
 .column {
+  width: 550px;
   float: left;
 }
