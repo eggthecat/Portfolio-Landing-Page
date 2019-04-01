@@ -23,4 +23,4 @@ _This simple project utilized HMTL5 along with CSS._
 
 *MIT License*
 
-Copyright (c) 2016 **_Dominic Montelongo_**
+Copyright (c) 2019 **_Dominic Montelongo_**
