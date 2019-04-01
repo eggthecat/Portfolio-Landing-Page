@@ -44,10 +44,11 @@ img {
   width: 10%;
   float: right;
   background-color: gold;
-  margin-right: 67%;
+  margin-right: 17%;
 }
 
 .bottom {
   color: white;
   font-size:8;
+  text-align: center;
 }
