@@ -1,3 +1,10 @@
+.projects{
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
 .intro {
   font-style: italic;
   font-size: 20px;
@@ -38,20 +45,9 @@ img {
   float: right;
   background-color: gold;
   margin-right: 67%;
-
 }
 
-.sidebar1 {
-  width: 10%;
-  float: right;
-  background-color: lightblue;
-  shape-outside: circle(25%);
-  margin-right: 37%;
-  border-color: lightblue;
-
-}
-
-.column {
-  width: 550px;
-  float: left;
+.bottom {
+  color: white;
+  font-size:8;
 }
